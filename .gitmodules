@@ -1,0 +1,3 @@
+[submodule "rufus"]
+	path = rufus
+	url = https://github.com/pbatard/rufus.git
